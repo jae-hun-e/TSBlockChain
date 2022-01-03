@@ -1,0 +1,14 @@
+{
+  "name": "tsblockchain",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ts practice",
+  "main": "index.js",
+  "repository": "https://github.com/jae-hun-e/tsblockchain.git",
+  "author": "jaehun <wognskec@hanyang.ac.kr>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
